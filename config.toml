@@ -1,0 +1,15 @@
+
+baseURL = 'https://example.com/'
+languageCode = 'en-us'
+title = 'My Travel Blog'
+theme = 'hugo-PaperMod'
+
+[params]
+  ShowReadingTime = true
+  ShowToc = true
+
+[menu]
+  [[menu.main]]
+    identifier = "posts"
+    name = "Posts"
+    url = "/posts/"
