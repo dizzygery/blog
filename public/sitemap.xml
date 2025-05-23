@@ -17,6 +17,9 @@
     <loc>https://example.com/posts/3depost/</loc>
     <lastmod>2025-05-23T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://example.com/posts/vijfpost/</loc>
+    <lastmod>2025-05-21T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://example.com/categories/</loc>
   </url><url>
     <loc>https://example.com/tags/</loc>
