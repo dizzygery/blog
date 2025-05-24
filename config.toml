@@ -8,7 +8,6 @@ theme = 'hugo-PaperMod'
 [params]
   ShowReadingTime = true
   ShowToc = true
-  DateFormat = "01-05-2025"
 
 [menu]
   [[menu.main]]
