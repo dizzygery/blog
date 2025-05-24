@@ -1,12 +1,12 @@
 ---
 title: "Onze reis naar het noorden"
-date: 2025-05-23
+date: 2025-05-24
 draft: false
 
 ---
-nieuw
 
-In juni gaan we een grote reis maken met de camper naar het noorden. Hier kunnen jullie onze avonturen volgen.
+
+In juni gaan we een grote reis maken met de camper naar het noorden. Hier kunnen jullie onze avonturen volgen. 
 
 ![Camper](/images/camper.jpg)
 
