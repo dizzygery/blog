@@ -2,19 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.com/</loc>
+    <loc>https://blog.alaerts-schelles.be/</loc>
     <lastmod>2025-05-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/posts/first-post/</loc>
+    <loc>https://blog.alaerts-schelles.be/posts/first-post/</loc>
     <lastmod>2025-05-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/posts/</loc>
+    <loc>https://blog.alaerts-schelles.be/posts/</loc>
     <lastmod>2025-05-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/posts/sdf/</loc>
+    <loc>https://blog.alaerts-schelles.be/posts/sdf/</loc>
   </url><url>
-    <loc>https://example.com/categories/</loc>
+    <loc>https://blog.alaerts-schelles.be/categories/</loc>
   </url><url>
-    <loc>https://example.com/tags/</loc>
+    <loc>https://blog.alaerts-schelles.be/tags/</loc>
   </url>
 </urlset>

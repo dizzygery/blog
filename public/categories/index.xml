@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Categories on My Travel Blog</title>
-    <link>https://example.com/categories/</link>
-    <description>Recent content in Categories on My Travel Blog</description>
+    <title>Categories on Het hoge noorden</title>
+    <link>https://blog.alaerts-schelles.be/categories/</link>
+    <description>Recent content in Categories on Het hoge noorden</description>
     <generator>Hugo -- 0.147.4</generator>
     <language>en-us</language>
-    <atom:link href="https://example.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://blog.alaerts-schelles.be/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

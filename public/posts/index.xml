@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Posts on My Travel Blog</title>
-    <link>https://example.com/posts/</link>
-    <description>Recent content in Posts on My Travel Blog</description>
+    <title>Posts on Het hoge noorden</title>
+    <link>https://blog.alaerts-schelles.be/posts/</link>
+    <description>Recent content in Posts on Het hoge noorden</description>
     <generator>Hugo -- 0.147.4</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 23 May 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://example.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://blog.alaerts-schelles.be/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Onze reis naar het noorden</title>
-      <link>https://example.com/posts/first-post/</link>
+      <link>https://blog.alaerts-schelles.be/posts/first-post/</link>
       <pubDate>Fri, 23 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.com/posts/first-post/</guid>
+      <guid>https://blog.alaerts-schelles.be/posts/first-post/</guid>
       <description>&lt;p&gt;nieuw&lt;/p&gt;
 &lt;p&gt;In juni gaan we een grote reis maken met de camper naar het noorden. Hier kunnen jullie onze avonturen volgen.&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&#34;Camper&#34; loading=&#34;lazy&#34; src=&#34;https://example.com/images/camper.jpg&#34;&gt;&lt;/p&gt;</description>
+&lt;p&gt;&lt;img alt=&#34;Camper&#34; loading=&#34;lazy&#34; src=&#34;https://blog.alaerts-schelles.be/images/camper.jpg&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>https://example.com/posts/sdf/</link>
+      <link>https://blog.alaerts-schelles.be/posts/sdf/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/posts/sdf/</guid>
+      <guid>https://blog.alaerts-schelles.be/posts/sdf/</guid>
       <description></description>
     </item>
   </channel>
