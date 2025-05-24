@@ -1,7 +1,7 @@
 
-baseURL = 'https://example.com/'
+baseURL = 'https://blog.alaerts-schelles.be/'
 languageCode = 'en-us'
-title = 'My Travel Blog'
+title = 'Het Hoge Noorden'
 theme = 'hugo-PaperMod'
 
 [params]
