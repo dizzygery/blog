@@ -5,7 +5,6 @@ draft: false
 
 ---
 
-nieuw+y
 In juni gaan we een grote reis maken met de camper naar het noorden. Hier kunnen jullie onze avonturen volgen. 
 
 ![Camper](/images/camper.jpg)
