@@ -8,6 +8,7 @@ theme = 'hugo-PaperMod'
 [params]
   ShowReadingTime = true
   ShowToc = true
+  DateFormat = "02-01-2006"
 
 [menu]
   [[menu.main]]
