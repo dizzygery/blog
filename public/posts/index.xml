@@ -6,8 +6,15 @@
     <description>Recent content in Posts on Het Hoge Noorden</description>
     <generator>Hugo -- 0.147.4</generator>
     <language>nl</language>
-    <lastBuildDate>Thu, 22 May 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 May 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://blog.alaerts-schelles.be/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>nieuw</title>
+      <link>https://blog.alaerts-schelles.be/posts/nieuw/</link>
+      <pubDate>Fri, 23 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://blog.alaerts-schelles.be/posts/nieuw/</guid>
+      <description>&lt;p&gt;nieuw&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Onze reis naar het noorden</title>
       <link>https://blog.alaerts-schelles.be/posts/2025-05-22/</link>
@@ -16,13 +23,6 @@
       <description>&lt;p&gt;In juni gaan we een grote reis maken met de camper naar het noorden. Hier kunnen jullie onze avonturen volgen.&lt;/p&gt;
 &lt;p&gt;&lt;img alt=&#34;Camper&#34; loading=&#34;lazy&#34; src=&#34;https://blog.alaerts-schelles.be/images/camper.jpg&#34;&gt;
 &lt;img alt=&#34;Camper&#34; loading=&#34;lazy&#34; src=&#34;https://blog.alaerts-schelles.be/images/camper2.jpg&#34;&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title></title>
-      <link>https://blog.alaerts-schelles.be/posts/leeg/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://blog.alaerts-schelles.be/posts/leeg/</guid>
-      <description></description>
     </item>
   </channel>
 </rss>
