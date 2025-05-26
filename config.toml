@@ -4,7 +4,7 @@ languageCode = 'nl'
 defaultContentLanguage = 'nl'
 title = 'Het Hoge Noorden'
 theme = 'hugo-PaperMod'
-googleAnalytics = "G-SWS9P1TV8J"
+googleAnalytics = "G-F5X5PM44HF"
 
 [params]
   ShowReadingTime = true
