@@ -16,3 +16,9 @@ googleAnalytics = "G-F5X5PM44HF"
     identifier = "posts"
     name = "Posts"
     url = "/posts/"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
