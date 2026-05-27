@@ -6,3 +6,4 @@ draft: false
 ---
 
 Hier komen de adventuren van onze nieuwe reis naar Zwitserland!
+Deze starten binnenkort
