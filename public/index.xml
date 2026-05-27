@@ -1,13 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Het Hoge Noorden</title>
+    <title>Zwitserland 2026</title>
     <link>https://blog.alaerts-schelles.be/</link>
-    <description>Recent content on Het Hoge Noorden</description>
+    <description>Recent content on Zwitserland 2026</description>
     <generator>Hugo -- 0.147.4</generator>
     <language>nl</language>
-    <lastBuildDate>Sun, 29 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 26 May 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://blog.alaerts-schelles.be/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Reis naar Zwitserland</title>
+      <link>https://blog.alaerts-schelles.be/travels/2026-ch/2026-05-26/</link>
+      <pubDate>Tue, 26 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://blog.alaerts-schelles.be/travels/2026-ch/2026-05-26/</guid>
+      <description>&lt;p&gt;Hier komen de adventuren van onze nieuwe reis naar Zwitserland!&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Terug thuis</title>
       <link>https://blog.alaerts-schelles.be/posts/2025-06-29/</link>
