@@ -1,7 +1,7 @@
 ---
 title: "Zwitserland 2026"
 date: 2026-05-26
-description: "Een nieuw adventuur"
+description: "Wij gaan naar Zwitserland!"
 ---
 
-Welkom bij ons nieuw adventuur
+
