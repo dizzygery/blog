@@ -1,5 +1,5 @@
     ---
-title: "Mur païen "
+title: "Mur Païen "
 date: 2026-06-04
 draft: false
 
