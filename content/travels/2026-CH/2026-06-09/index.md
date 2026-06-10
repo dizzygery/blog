@@ -24,4 +24,4 @@ Na een tijdje valt de camion stil, waarschijnlijk door een technisch probleem. W
 
 ![camion](camion.jpg)
 
-Gery kijkt even op zijn kaartje en ziet dat de hoofdbaan op enkele honderden meters kruist met de bosweg. We waren er bijna! Langs de rechtse kant van het bospad is het iets minder steil. Dan maar even op verkenning. Ja, het zou lukken: eerst een stuk door het bos en dan een moerassig stuk met watergeulen. De voeten nog wat meer nat, maar we halen het. Oef! 
+Gery kijkt even op zijn kaartje en ziet dat de hoofdbaan op enkele honderden meters kruist met de bosweg. We waren er bijna! Langs de linkse kant van het bospad is het iets minder steil. Dan maar even op verkenning. Ja, het zou lukken: eerst een stuk door het bos en dan een moerassig stuk met watergeulen. De voeten nog wat meer nat, maar we halen het. Oef! 
