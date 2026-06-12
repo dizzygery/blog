@@ -15,9 +15,13 @@ In het begin heel tof, maar al vlug gaat het steil bergop. Je zou het niet zegge
  
 ![Adem trappen](adem.jpg)
 
-Toch weer blij als we de 250 m hoogteverschil hebben overwonnen en we kunnen genieten van het uitzicht op het dorp.
+Toch weer blij als we 250 m hoogteverschil hebben overwonnen en we kunnen genieten van het uitzicht op het dorp.
 
 ![Unteriberg](dorp.jpg)
+
+En als we helemaal boven zijn.
+
+![We zijn boven](boven.jpg)
 
 Als we bijna terug beneden zijn, maken we nog even een ommetje langs 2 luxueuze loghome tiny houses die onze host mee heeft helpen bouwen.
 
