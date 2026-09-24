@@ -1,0 +1,30 @@
+
+baseURL = 'https://blog.alaerts-schelles.be/'
+languageCode = 'nl'
+defaultContentLanguage = 'nl'
+title = 'Zwitserland 2026'
+theme = 'hugo-PaperMod'
+googleAnalytics = "G-F5X5PM44HF"
+
+[params]
+  ShowReadingTime = true
+  ShowToc = true
+  DateFormat = "02-01-2006"
+  mainSections = ["travels"]
+[menu]
+ [[menu.main]]
+    identifier = "travel-2026"
+    name = "Zwitserland 2026"
+    url = "/travels/2026-CH/"
+    weight = 1
+
+ [[menu.main]]
+    identifier = "Het hoge Noorden 2025"
+    name = "Het Hoge Noorden 2025"
+    url = "/posts/"
+    weight = 2
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
